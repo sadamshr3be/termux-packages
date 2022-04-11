@@ -21,6 +21,26 @@
 
 <code>python termux-packages.py </code><br><br>
 
+# لقطة الشاشة
+
+
+<img src="https://github.com/sadamshr3be/termux-packages/blob/main/Capture%2B_2022-04-12-00-51-13.png" width="257px" height="200px"/>
+
+
+
+
+# قناتي علـّۓ. اليوتيوب 
+
+https://youtube.com/channel/UCGmfv3D0tcKvHp8Tolf6Yqw
+
+# قناتي على التلجرام 
+
+https://t.me/termuxalsharabi
+# المدونه. 
+
+https://termuxalsharabi.blogspot.com
+
+# بقلم صدام الشرعبي
 
 #### Do not use this tool for personal purposes
 ### They wait for new updates
